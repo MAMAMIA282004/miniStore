@@ -1,0 +1,182 @@
+export const data = [
+  {
+    "_class": "Course",
+    //"id": 780078,
+    "title": "How to speak to anyone & be fearless - in less than 55 min",
+    // "url": "/course/fearless-public-speaker-bootcamp-by-ricky-mendoza/",
+    "is_paid": true,
+    "price": "34.2",
+    // "price_detail": null,
+    // "price_serve_tracking_id": "gWjs_n0KTb-wNjNNW2bOtQ",
+    // "visible_instructors": [
+    //   {
+    //     "_class": "user",
+    //     "title": "Ricardo Mendoza",
+    //     "name": "Ricardo",
+    //     "display_name": "Ricardo Mendoza",
+    //     "job_title": "Founder of Digital Work Studios and Interpretap",
+    //     "image_50x50": "https://img-c.udemycdn.com/user/50x50/8678100_c955_2.jpg",
+    //     "image_100x100": "https://img-c.udemycdn.com/user/100x100/8678100_c955_2.jpg",
+    //     "initials": "RM",
+    //     "url": "/user/ricardomendoza9/"
+    //   }
+    // ],
+    // "image_125_H": "https://img-c.udemycdn.com/course/125_H/780078_e409_2.jpg",
+    // "image_240x135": "https://img-c.udemycdn.com/course/240x135/780078_e409_2.jpg",
+    // "is_practice_test_course": false,
+    "image_480x270": "https://img-c.udemycdn.com/course/480x270/780078_e409_2.jpg",
+    // "published_title": "fearless-public-speaker-bootcamp-by-ricky-mendoza",
+    // "tracking_id": "",
+    // "locale": {
+    //   "_class": "locale",
+    //   "locale": "en_US",
+    //   "title": "English (US)",
+    //   "english_title": "English (US)",
+    //   "simple_english_title": "English"
+    // },
+    // "predictive_score": null,
+    // "relevancy_score": null,
+    // "input_features": null,
+    // "lecture_search_result": null,
+    // "curriculum_lectures": [],
+    // "order_in_results": null,
+    // "curriculum_items": [],
+    "headline": "Learn to quickly connect with crowds of strangers, be better on dates or ace that job interview.",
+    // "instructor_name": null
+  },
+  {
+    "_class": "Course",
+    // "id": 352440,
+    "title": "Agile PM 101 - Learn the Truth About Agile versus Waterfall",
+    // "url": "/course/learn-the-truth-about-agile-versus-waterfall/",
+    "is_paid": false,
+    "price": "Free",
+    // "price_detail": null,
+    // "price_serve_tracking_id": "803PUs9jQ6aYHv-KwdpmOQ",
+    // "visible_instructors": [
+    //   {
+    //     "_class": "user",
+    //     "title": "Agile Project Management Academy - Chuck Cobb",
+    //     "name": "Agile Project Management Academy -",
+    //     "display_name": "Agile Project Management Academy - Chuck Cobb",
+    //     "job_title": "Author of The Project Manager's Guide to Mastering Agile",
+    //     "image_50x50": "https://img-c.udemycdn.com/user/50x50/7151580_fc67.jpg",
+    //     "image_100x100": "https://img-c.udemycdn.com/user/100x100/7151580_fc67.jpg",
+    //     "initials": "AC",
+    //     "url": "/user/chuckcobb2/"
+    //   }
+    // ],
+    // "image_125_H": "https://img-c.udemycdn.com/course/125_H/352440_01ad_6.jpg",
+    // "image_240x135": "https://img-c.udemycdn.com/course/240x135/352440_01ad_6.jpg",
+    // "is_practice_test_course": false,
+    "image_480x270": "https://img-c.udemycdn.com/course/480x270/352440_01ad_6.jpg",
+    // "published_title": "learn-the-truth-about-agile-versus-waterfall",
+    // "tracking_id": "",
+    // "locale": {
+    //   "_class": "locale",
+    //   "locale": "en_US",
+    //   "title": "English (US)",
+    //   "english_title": "English (US)",
+    //   "simple_english_title": "English"
+    // },
+    // "predictive_score": null,
+    // "relevancy_score": null,
+    // "input_features": null,
+    // "lecture_search_result": null,
+    // "curriculum_lectures": [],
+    // "order_in_results": null,
+    // "curriculum_items": [],
+    "headline": "Learn to See Agile and Waterfall in a Fresh, New Perspective as Complementary Rather Than Competitive",
+    // "instructor_name": null
+  },
+  {
+    "_class": "Course",
+    // "id": 4626276,
+    "title": "Free Lean Six Sigma Introduction Course",
+    // "url": "/course/lean-six-sigma-introduction-course/",
+    "is_paid": false,
+    "price": "Free",
+    // "price_detail": null,
+    // "price_serve_tracking_id": "GUtvn71jRuW-ir1yOuxxhA",
+    // "visible_instructors": [
+    //   {
+    //     "_class": "user",
+    //     "title": "Six Sigma Academy Amsterdam",
+    //     "name": "Six Sigma",
+    //     "display_name": "Six Sigma Academy Amsterdam",
+    //     "job_title": "Accredited teaching and certification by academic staff",
+    //     "image_50x50": "https://img-c.udemycdn.com/user/50x50/27870418_4655_13.jpg",
+    //     "image_100x100": "https://img-c.udemycdn.com/user/100x100/27870418_4655_13.jpg",
+    //     "initials": "SA",
+    //     "url": "/user/six-sigma-academy-amsterdam/"
+    //   }
+    // ],
+    // "image_125_H": "https://img-c.udemycdn.com/course/125_H/4626276_6f65_3.jpg",
+    // "image_240x135": "https://img-c.udemycdn.com/course/240x135/4626276_6f65_3.jpg",
+    // "is_practice_test_course": false,
+    "image_480x270": "https://img-c.udemycdn.com/course/480x270/4626276_6f65_3.jpg",
+    // "published_title": "lean-six-sigma-introduction-course",
+    // "tracking_id": "",
+    // "locale": {
+    //   "_class": "locale",
+    //   "locale": "en_US",
+    //   "title": "English (US)",
+    //   "english_title": "English (US)",
+    //   "simple_english_title": "English"
+    // },
+    // "predictive_score": null,
+    // "relevancy_score": null,
+    // "input_features": null,
+    // "lecture_search_result": null,
+    // "curriculum_lectures": [],
+    // "order_in_results": null,
+    // "curriculum_items": [],
+    "headline": "Curious about Lean Six Sigma? Here's a brief introduction. 100,000+ certified worldwide. BKO accredited",
+    // "instructor_name": null
+  },
+  {
+    "_class": "Course",
+    // "id": 1959822,
+    "title": "Start a business in 5 days with Shopify and ProductListGenie",
+    // "url": "/course/start-a-business-in-5-days-with-shopify-and-productlistgenie/",
+    "is_paid": false,
+    "price": "Free",
+    // "price_detail": null,
+    // "price_serve_tracking_id": "oYRbwwn4Q36yc8UishVLKw",
+    // "visible_instructors": [
+    //   {
+    //     "_class": "user",
+    //     "title": "Tim Sharp",
+    //     "name": "Tim",
+    //     "display_name": "Tim Sharp",
+    //     "job_title": "A highly successful ecommerce entrepreneur since 2004",
+    //     "image_50x50": "https://img-c.udemycdn.com/user/50x50/27743306_28b4_3.jpg",
+    //     "image_100x100": "https://img-c.udemycdn.com/user/100x100/27743306_28b4_3.jpg",
+    //     "initials": "TS",
+    //     "url": "/user/tim-sharp-5/"
+    //   }
+    // ],
+    // "image_125_H": "https://img-c.udemycdn.com/course/125_H/1959822_2848_3.jpg",
+    // "image_240x135": "https://img-c.udemycdn.com/course/240x135/1959822_2848_3.jpg",
+    // "is_practice_test_course": false,
+    "image_480x270": "https://img-c.udemycdn.com/course/480x270/1959822_2848_3.jpg",
+    // "published_title": "start-a-business-in-5-days-with-shopify-and-productlistgenie",
+    // "tracking_id": "",
+    // "locale": {
+    //   "_class": "locale",
+    //   "locale": "en_US",
+    //   "title": "English (US)",
+    //   "english_title": "English (US)",
+    //   "simple_english_title": "English"
+    // },
+    // "predictive_score": null,
+    // "relevancy_score": null,
+    // "input_features": null,
+    // "lecture_search_result": null,
+    // "curriculum_lectures": [],
+    // "order_in_results": null,
+    // "curriculum_items": [],
+    "headline": "Take 'The Challenge' and learn how to start an exciting ecommerce business with Shopify and Product List Genie in 5 days",
+    // "instructor_name": null
+  }
+]
