@@ -1,9 +1,0 @@
-{
-  "extends": [
-    "development"
-  ],
-  "hints": {
-    "typescript-config/consistent-casing": "on",
-    "typescript-config/strict": "on"
-  }
-}
